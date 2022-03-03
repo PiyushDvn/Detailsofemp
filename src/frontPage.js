@@ -9,6 +9,7 @@ import { Link } from "react-router-dom"
         <lable>WELCOME TO OUR COMPANY </lable>
         <br></br>
         <br></br><Link to ="/empDetails"> Employee Details! </Link>
+        
       </div>
     );
   }
